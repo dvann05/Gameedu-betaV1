@@ -1,0 +1,6 @@
+{
+  "name": "Kids Learning World",
+  "description": "Premium interactive educational game for kids with multi-language support, 10,000+ procedural levels, rewards, audio, and mini-games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
